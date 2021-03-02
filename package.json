@@ -3,7 +3,12 @@
   "publisher": "DavidSint",
   "displayName": "condir",
   "description": "Adds a console.dir of the variable on the next line",
-  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidSint/condir"
+  },
+  "icon": "media/condir.png",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.53.0"
   },
