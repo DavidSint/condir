@@ -11,3 +11,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.2]
 - Change icon
+
+## [0.0.3]
+- Put variable in curly braces to identify which variable it is

@@ -33,7 +33,7 @@ function activate(context) {
           (sel.end);
           const endOfLine = lineNumber.range.end.character
 
-          editBuilder.replace(new vscode.Position(lineNumber.lineNumber, endOfLine), `\nconsole.dir(${highlightedText}, { depth: null })`)
+          editBuilder.replace(new vscode.Position(lineNumber.lineNumber, endOfLine), `\nconsole.dir({ ${highlightedText} }, { depth: null })`)
         })
       });
     }

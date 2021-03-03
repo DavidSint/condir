@@ -10,6 +10,9 @@ Highlight something in your JS code, then activate this extension ("ctrl+shift+j
 
 Users appreciate release notes as you update your extension.
 
+### 0.0.3
+
+Put variable in curly braces to identify which variable it is
 ### 0.0.2
 
 Change icon
